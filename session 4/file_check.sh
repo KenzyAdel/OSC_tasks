@@ -1,3 +1,4 @@
+#!/bin/bash
 if [[ -e $2/$1 ]]
 then 
 echo "File exists"

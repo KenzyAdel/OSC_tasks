@@ -1,4 +1,4 @@
-#!
+#!/bin/bash
 echo "1. Addition"
 echo "2. subtraction"
 echo "3. Multiplication"
